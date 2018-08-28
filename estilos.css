@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Jua', sans-serif;
+}
+
+p {
+	font-family: 'Indie Flower', cursive;s
+}
+
+
+ul, ol, dl {	
+	font-family: 'Great Vibes', cursive;
+}
